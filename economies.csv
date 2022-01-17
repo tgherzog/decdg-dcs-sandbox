@@ -1,0 +1,218 @@
+id,name,region,adminregion,lendingType,incomeLevel
+ABW,Aruba,LCN,,LNX,HIC
+AFG,Afghanistan,SAS,SAS,IDX,LIC
+AGO,Angola,SSF,SSA,IBD,LMC
+ALB,Albania,ECS,ECA,IBD,UMC
+AND,Andorra,ECS,,LNX,HIC
+ARE,United Arab Emirates,MEA,,LNX,HIC
+ARG,Argentina,LCN,LAC,IBD,UMC
+ARM,Armenia,ECS,ECA,IBD,UMC
+ASM,American Samoa,EAS,EAP,LNX,UMC
+ATG,Antigua and Barbuda,LCN,,IBD,HIC
+AUS,Australia,EAS,,LNX,HIC
+AUT,Austria,ECS,,LNX,HIC
+AZE,Azerbaijan,ECS,ECA,IBD,UMC
+BDI,Burundi,SSF,SSA,IDX,LIC
+BEL,Belgium,ECS,,LNX,HIC
+BEN,Benin,SSF,SSA,IDX,LMC
+BFA,Burkina Faso,SSF,SSA,IDX,LIC
+BGD,Bangladesh,SAS,SAS,IDX,LMC
+BGR,Bulgaria,ECS,ECA,IBD,UMC
+BHR,Bahrain,MEA,,LNX,HIC
+BHS,"Bahamas, The",LCN,,LNX,HIC
+BIH,Bosnia and Herzegovina,ECS,ECA,IBD,UMC
+BLR,Belarus,ECS,ECA,IBD,UMC
+BLZ,Belize,LCN,LAC,IBD,LMC
+BMU,Bermuda,NAC,,LNX,HIC
+BOL,Bolivia,LCN,LAC,IBD,LMC
+BRA,Brazil,LCN,LAC,IBD,UMC
+BRB,Barbados,LCN,,LNX,HIC
+BRN,Brunei Darussalam,EAS,,LNX,HIC
+BTN,Bhutan,SAS,SAS,IDX,LMC
+BWA,Botswana,SSF,SSA,IBD,UMC
+CAF,Central African Republic,SSF,SSA,IDX,LIC
+CAN,Canada,NAC,,LNX,HIC
+CHE,Switzerland,ECS,,LNX,HIC
+CHI,Channel Islands,ECS,,LNX,HIC
+CHL,Chile,LCN,,IBD,HIC
+CHN,China,EAS,EAP,IBD,UMC
+CIV,Cote d'Ivoire,SSF,SSA,IDX,LMC
+CMR,Cameroon,SSF,SSA,IDB,LMC
+COD,"Congo, Dem. Rep.",SSF,SSA,IDX,LIC
+COG,"Congo, Rep.",SSF,SSA,IDB,LMC
+COL,Colombia,LCN,LAC,IBD,UMC
+COM,Comoros,SSF,SSA,IDX,LMC
+CPV,Cabo Verde,SSF,SSA,IDB,LMC
+CRI,Costa Rica,LCN,LAC,IBD,UMC
+CUB,Cuba,LCN,LAC,LNX,UMC
+CUW,Curacao,LCN,,LNX,HIC
+CYM,Cayman Islands,LCN,,LNX,HIC
+CYP,Cyprus,ECS,,LNX,HIC
+CZE,Czech Republic,ECS,,LNX,HIC
+DEU,Germany,ECS,,LNX,HIC
+DJI,Djibouti,MEA,MNA,IDX,LMC
+DMA,Dominica,LCN,LAC,IDB,UMC
+DNK,Denmark,ECS,,LNX,HIC
+DOM,Dominican Republic,LCN,LAC,IBD,UMC
+DZA,Algeria,MEA,MNA,IBD,LMC
+ECU,Ecuador,LCN,LAC,IBD,UMC
+EGY,"Egypt, Arab Rep.",MEA,MNA,IBD,LMC
+ERI,Eritrea,SSF,SSA,IDX,LIC
+ESP,Spain,ECS,,LNX,HIC
+EST,Estonia,ECS,,LNX,HIC
+ETH,Ethiopia,SSF,SSA,IDX,LIC
+FIN,Finland,ECS,,LNX,HIC
+FJI,Fiji,EAS,EAP,IDB,UMC
+FRA,France,ECS,,LNX,HIC
+FRO,Faroe Islands,ECS,,LNX,HIC
+FSM,"Micronesia, Fed. Sts.",EAS,EAP,IDX,LMC
+GAB,Gabon,SSF,SSA,IBD,UMC
+GBR,United Kingdom,ECS,,LNX,HIC
+GEO,Georgia,ECS,ECA,IBD,UMC
+GHA,Ghana,SSF,SSA,IDX,LMC
+GIB,Gibraltar,ECS,,LNX,HIC
+GIN,Guinea,SSF,SSA,IDX,LIC
+GMB,"Gambia, The",SSF,SSA,IDX,LIC
+GNB,Guinea-Bissau,SSF,SSA,IDX,LIC
+GNQ,Equatorial Guinea,SSF,SSA,IBD,UMC
+GRC,Greece,ECS,,LNX,HIC
+GRD,Grenada,LCN,LAC,IDB,UMC
+GRL,Greenland,ECS,,LNX,HIC
+GTM,Guatemala,LCN,LAC,IBD,UMC
+GUM,Guam,EAS,,LNX,HIC
+GUY,Guyana,LCN,LAC,IDX,UMC
+HKG,"Hong Kong SAR, China",EAS,,LNX,HIC
+HND,Honduras,LCN,LAC,IDX,LMC
+HRV,Croatia,ECS,,IBD,HIC
+HTI,Haiti,LCN,LAC,IDX,LMC
+HUN,Hungary,ECS,,LNX,HIC
+IDN,Indonesia,EAS,EAP,IBD,LMC
+IMN,Isle of Man,ECS,,LNX,HIC
+IND,India,SAS,SAS,IBD,LMC
+IRL,Ireland,ECS,,LNX,HIC
+IRN,"Iran, Islamic Rep.",MEA,MNA,IBD,LMC
+IRQ,Iraq,MEA,MNA,IBD,UMC
+ISL,Iceland,ECS,,LNX,HIC
+ISR,Israel,MEA,,LNX,HIC
+ITA,Italy,ECS,,LNX,HIC
+JAM,Jamaica,LCN,LAC,IBD,UMC
+JOR,Jordan,MEA,MNA,IBD,UMC
+JPN,Japan,EAS,,LNX,HIC
+KAZ,Kazakhstan,ECS,ECA,IBD,UMC
+KEN,Kenya,SSF,SSA,IDB,LMC
+KGZ,Kyrgyz Republic,ECS,ECA,IDX,LMC
+KHM,Cambodia,EAS,EAP,IDX,LMC
+KIR,Kiribati,EAS,EAP,IDX,LMC
+KNA,St. Kitts and Nevis,LCN,,IBD,HIC
+KOR,"Korea, Rep.",EAS,,LNX,HIC
+KWT,Kuwait,MEA,,LNX,HIC
+LAO,Lao PDR,EAS,EAP,IDX,LMC
+LBN,Lebanon,MEA,MNA,IBD,UMC
+LBR,Liberia,SSF,SSA,IDX,LIC
+LBY,Libya,MEA,MNA,IBD,UMC
+LCA,St. Lucia,LCN,LAC,IDB,UMC
+LIE,Liechtenstein,ECS,,LNX,HIC
+LKA,Sri Lanka,SAS,SAS,IBD,LMC
+LSO,Lesotho,SSF,SSA,IDX,LMC
+LTU,Lithuania,ECS,,LNX,HIC
+LUX,Luxembourg,ECS,,LNX,HIC
+LVA,Latvia,ECS,,LNX,HIC
+MAC,"Macao SAR, China",EAS,,LNX,HIC
+MAF,St. Martin (French part),LCN,,LNX,HIC
+MAR,Morocco,MEA,MNA,IBD,LMC
+MCO,Monaco,ECS,,LNX,HIC
+MDA,Moldova,ECS,ECA,IBD,UMC
+MDG,Madagascar,SSF,SSA,IDX,LIC
+MDV,Maldives,SAS,SAS,IDX,UMC
+MEX,Mexico,LCN,LAC,IBD,UMC
+MHL,Marshall Islands,EAS,EAP,IDX,UMC
+MKD,North Macedonia,ECS,ECA,IBD,UMC
+MLI,Mali,SSF,SSA,IDX,LIC
+MLT,Malta,MEA,,LNX,HIC
+MMR,Myanmar,EAS,EAP,IDX,LMC
+MNE,Montenegro,ECS,ECA,IBD,UMC
+MNG,Mongolia,EAS,EAP,IBD,LMC
+MNP,Northern Mariana Islands,EAS,,LNX,HIC
+MOZ,Mozambique,SSF,SSA,IDX,LIC
+MRT,Mauritania,SSF,SSA,IDX,LMC
+MUS,Mauritius,SSF,SSA,IBD,UMC
+MWI,Malawi,SSF,SSA,IDX,LIC
+MYS,Malaysia,EAS,EAP,IBD,UMC
+NAM,Namibia,SSF,SSA,IBD,UMC
+NCL,New Caledonia,EAS,,LNX,HIC
+NER,Niger,SSF,SSA,IDX,LIC
+NGA,Nigeria,SSF,SSA,IDB,LMC
+NIC,Nicaragua,LCN,LAC,IDX,LMC
+NLD,Netherlands,ECS,,LNX,HIC
+NOR,Norway,ECS,,LNX,HIC
+NPL,Nepal,SAS,SAS,IDX,LMC
+NRU,Nauru,EAS,,IBD,HIC
+NZL,New Zealand,EAS,,LNX,HIC
+OMN,Oman,MEA,,LNX,HIC
+PAK,Pakistan,SAS,SAS,IDB,LMC
+PAN,Panama,LCN,LAC,IBD,UMC
+PER,Peru,LCN,LAC,IBD,UMC
+PHL,Philippines,EAS,EAP,IBD,LMC
+PLW,Palau,EAS,,IBD,HIC
+PNG,Papua New Guinea,EAS,EAP,IDB,LMC
+POL,Poland,ECS,,IBD,HIC
+PRI,Puerto Rico,LCN,,LNX,HIC
+PRK,"Korea, Dem. People's Rep.",EAS,EAP,LNX,LIC
+PRT,Portugal,ECS,,LNX,HIC
+PRY,Paraguay,LCN,LAC,IBD,UMC
+PSE,West Bank and Gaza,MEA,MNA,LNX,LMC
+PYF,French Polynesia,EAS,,LNX,HIC
+QAT,Qatar,MEA,,LNX,HIC
+ROU,Romania,ECS,ECA,IBD,UMC
+RUS,Russian Federation,ECS,ECA,IBD,UMC
+RWA,Rwanda,SSF,SSA,IDX,LIC
+SAU,Saudi Arabia,MEA,,LNX,HIC
+SDN,Sudan,SSF,SSA,IDX,LIC
+SEN,Senegal,SSF,SSA,IDX,LMC
+SGP,Singapore,EAS,,LNX,HIC
+SLB,Solomon Islands,EAS,EAP,IDX,LMC
+SLE,Sierra Leone,SSF,SSA,IDX,LIC
+SLV,El Salvador,LCN,LAC,IBD,LMC
+SMR,San Marino,ECS,,LNX,HIC
+SOM,Somalia,SSF,SSA,IDX,LIC
+SRB,Serbia,ECS,ECA,IBD,UMC
+SSD,South Sudan,SSF,SSA,IDX,LIC
+STP,Sao Tome and Principe,SSF,SSA,IDX,LMC
+SUR,Suriname,LCN,LAC,IBD,UMC
+SVK,Slovak Republic,ECS,,LNX,HIC
+SVN,Slovenia,ECS,,LNX,HIC
+SWE,Sweden,ECS,,LNX,HIC
+SWZ,Eswatini,SSF,SSA,IBD,LMC
+SXM,Sint Maarten (Dutch part),LCN,,LNX,HIC
+SYC,Seychelles,SSF,,IBD,HIC
+SYR,Syrian Arab Republic,MEA,MNA,IDX,LIC
+TCA,Turks and Caicos Islands,LCN,,LNX,HIC
+TCD,Chad,SSF,SSA,IDX,LIC
+TGO,Togo,SSF,SSA,IDX,LIC
+THA,Thailand,EAS,EAP,IBD,UMC
+TJK,Tajikistan,ECS,ECA,IDX,LMC
+TKM,Turkmenistan,ECS,ECA,IBD,UMC
+TLS,Timor-Leste,EAS,EAP,IDB,LMC
+TON,Tonga,EAS,EAP,IDX,UMC
+TTO,Trinidad and Tobago,LCN,,IBD,HIC
+TUN,Tunisia,MEA,MNA,IBD,LMC
+TUR,Turkey,ECS,ECA,IBD,UMC
+TUV,Tuvalu,EAS,EAP,IDX,UMC
+TZA,Tanzania,SSF,SSA,IDX,LMC
+UGA,Uganda,SSF,SSA,IDX,LIC
+UKR,Ukraine,ECS,ECA,IBD,LMC
+URY,Uruguay,LCN,,IBD,HIC
+USA,United States,NAC,,LNX,HIC
+UZB,Uzbekistan,ECS,ECA,IDB,LMC
+VCT,St. Vincent and the Grenadines,LCN,LAC,IDB,UMC
+VEN,"Venezuela, RB",LCN,,IBD,INX
+VGB,British Virgin Islands,LCN,,LNX,HIC
+VIR,Virgin Islands (U.S.),LCN,,LNX,HIC
+VNM,Vietnam,EAS,EAP,IBD,LMC
+VUT,Vanuatu,EAS,EAP,IDX,LMC
+WSM,Samoa,EAS,EAP,IDX,LMC
+XKX,Kosovo,ECS,ECA,IDX,UMC
+YEM,"Yemen, Rep.",MEA,MNA,IDX,LIC
+ZAF,South Africa,SSF,SSA,IBD,UMC
+ZMB,Zambia,SSF,SSA,IDX,LMC
+ZWE,Zimbabwe,SSF,SSA,IDB,LMC
