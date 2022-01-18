@@ -8,6 +8,7 @@ import io
 import os
 import logging
 import yaml
+from .util import init_view
 
 try:
     import git as pygit
@@ -23,6 +24,7 @@ class Session():
         self.repo = pygit.Repo().init(path)
 
         self.path = path
+        init_view(path)
         self.line_terminator = None
 
         # keys sets the key columns and order within a CSV file. These can be customized for subnational or additional dimensions
