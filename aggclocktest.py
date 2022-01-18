@@ -20,25 +20,36 @@ for root,dirs,files in os.walk('data'):
     if ext.lower() == '.csv':
       cets_list.append(base)
 
-economies = pd.read_csv('economies.csv').set_index('id')
+regions = pd.read_csv('regions.csv').set_index(['region','country']).drop('type', axis=1)
 
 start = datetime.now()
 for elem in cets_list:
     print('Processing: {}'.format(elem))
 
-    df = repo.load([elem])
-    agg = df.join(economies['region'], on='economy').assign(N=1)
+    df = repo.load([elem]).assign(N=1)
+    time_periods = df.index.get_level_values('time').unique()
+    
+    # we need to create a left-side data frame keyed by time (from the data), region and country (from regions)
+    # this will have len(regions) * len(time_periods) rows
+
+    # create a dictionary of keys (time periods) and corresponding data frames; in this case,
+    # the same (blank) data frame for each time period
+    i = {t:regions for t in time_periods}
+    master = pd.concat(i, keys=time_periods, names=['time']).reset_index()
+
+    agg = master.join(df, on=['time', 'country'])
 
     a1 = agg.groupby(['time', 'region']).sum(min_count=1)
 
+    # FIXME
     # add WLD aggregates
-    wld = agg.groupby('time').sum(min_count=1).assign(region='WLD').set_index('region', append=True)
+    wld = df.groupby('time').sum(min_count=1).assign(region='WLD').set_index('region', append=True)
     a1 = a1.append(wld).sort_index()
 
     # calculate mask values
     mask_values = agg.groupby(['time', 'region']).count()
 
-    wld = agg.groupby('time').count().assign(region='WLD').set_index('region', append=True)
+    wld = df.groupby('time').count().assign(region='WLD').set_index('region', append=True)
     mask_values = mask_values.append(wld).sort_index()
 
     a1.loc[(mask_values[elem]/mask_values['N'])<0.6, elem] = np.nan
