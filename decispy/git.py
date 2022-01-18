@@ -89,7 +89,7 @@ class Session():
                 
             i += 1
 
-        return pd.Series(np.nan, index=pd.MultiIndex.from_product(values.values(), names=values.keys()))
+        return pd.Series(np.nan, index=pd.MultiIndex.from_product(values.values(), names=values.keys()), name='value')
                 
 
     def changes(self, prefix='data', simplify=True):
